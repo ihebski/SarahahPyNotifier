@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-# Python Script to automatically get alert notification on Desktop for Saraha.com website
+# Python Script to automatically get alerts notification on Desktop for Saraha.com website 
 # By Iheb Ben Salem @ibs.Dev,S0ld1er [email:] ihebbensalem.dev@gmail.com
 # You need cookies to run the script | script fetch for new msg every 1 min u can change it later
 # Usage : python saraha.py 
