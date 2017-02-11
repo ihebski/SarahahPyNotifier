@@ -6,7 +6,7 @@ This is a dirty script that helps you to get notifications alerts about the new 
 
 #The main idea of the script
 
-When you check around the web site ,the notification bar not indicate the new msg tasks,but ,the /Message page gives you some information about the sum of the msg recieved .The script fetch every time it is executed the number field and compare it to an old one ,then save the new updates.
+When you check around the web site ,the notification bar not indicate the new msg (onely email notification),but ,the /Message page gives you some information about the sum of the recieved messages.The script fetch the number field and compare it to an old one ,then save the new updates.
 
 #How it works ?!
 if new updates appears in the web site ,the script push a notification on the Desktop. 
