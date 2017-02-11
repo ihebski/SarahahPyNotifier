@@ -32,6 +32,8 @@ $ python saraha.py
 ```
 #About the project
 Saraha.com is scaling so fast. Am not the fan of the website, but I have used it as a social experience to develop a new project called Litsy project based on social experiences and emotions.
+#Chrome extension
+the chrome extension we'll coming soon
 #Support Me 
 This software is developed during my free time and I will be glad if somebody will support me.
 For another projects and articles visite my blog https://nodeme.blogspot.com/
