@@ -1,4 +1,4 @@
-#About Pwnerrank Notifier
+#About Saraha Notifier
 
 This is a dirty script that helps you to get notifications alerts about the new messages recieved on Saraha.com website.
 
