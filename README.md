@@ -1,3 +1,5 @@
+Do you want to receive notifications without even opening the Saraha web site? SarahaPy-Notifications provides you with a python script, that solves this purpose.
+
 #About Saraha Notifier
 
 This is a dirty script that helps you to get notifications, alerts about the new messages received on Saraha.com website.
